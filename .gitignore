@@ -1,0 +1,10 @@
+# Environment files
+.env
+.env.local
+
+# Database files
+database/dapur_ina.sqlite
+
+# System files
+.DS_Store
+*.log
